@@ -1,75 +1,31 @@
-<!-- Profile Views -->
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmed-refaat-analyst&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+# Data Analyst | Turning Data Into Insight
 
-<h1 align="center">
-  
-  █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
- ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
- ███████║███████║██╔████╔██║█████╗  ██╔══██╗╝
- ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗
- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗███████╗║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-
-</h1>
-
-<h3 align="center">Data Analyst | Business Intelligence</h3>
+Hi! I’m Ahmed Refaat — a data analyst passionate about transforming raw data into meaningful insights that support smart decision-making.  
+I work with Excel, Power BI, SQL and data visualization tools to analyze performance, track trends, and help businesses see the bigger picture clearly and confidently.
 
 ---
 
-### 👋 About Me
-I'm a **Data Analyst** focused on organizing and analyzing data to support clear business decision-making.  
-I develop dashboards, structure datasets, and highlight performance trends in a simple and effective way.
+### 🔍 What I Do
+- Data cleaning, modeling, and transformation
+- Building interactive dashboards & visual reports
+- Extracting insights using analytical thinking
+- Improving business decisions with data-driven approaches
 
 ---
 
-### 🔗 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ahmed-refaat-ramadan-280049187" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/ahmed-refaat-analyst" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:ahmedrefaatramadan11@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+### 🧰 Tools & Skills
+- *Excel* (Pivot Tables, Power Query, Dashboards)
+- *Power BI* (DAX, Data Modeling, Visualization)
+- *SQL* (Querying, Joins, Aggregations)
+- *Data Storytelling & Reporting*
 
 ---
 
-### 🛠️ Skills & Tools
-
-| Category | Tools |
-|--------|-------|
-| **Data Analysis & BI** | Power BI, Excel, DAX |
-| **Databases** | SQL, MySQL |
-| **Data Cleaning** | Power Query, ETL Processes |
-| **Other Tools** | GitHub, Google Sheets |
+### 📫 Connect With Me
+- *LinkedIn:* https://www.linkedin.com/in/ahmed-refaat-ramadan-280049187  
+- *GitHub:* https://github.com/ahmed-refaat-analyst  
+- *Email:* ahmedrefaatramadan11@gmail.com
 
 ---
 
-### 📈 GitHub Stats (Light Mode)
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ahmed-refaat-analyst&show_icons=true&theme=default&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-refaat-analyst&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-### 🚀 What I Do
-- Analyze business performance and KPIs  
-- Build interactive dashboards and reports  
-- Create structured data models  
-- Turn raw data into actionable insights  
-
----
-
-✨ *Feel free to explore my repositories and connect anytime.*
+Thanks for visiting my profile — feel free to explore my projects! 🚀
