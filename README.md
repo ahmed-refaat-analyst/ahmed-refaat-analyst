@@ -60,14 +60,4 @@ I work on structuring datasets, building dashboards, and analyzing performance m
 
 ---
 
-
-### 📈 GitHub Stats (Light Mode)
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ahmed-refaat-analyst&show_icons=true&theme=default&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-refaat-analyst&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ✨ *Feel free to explore my repositories — your feedback is always welcome!*
