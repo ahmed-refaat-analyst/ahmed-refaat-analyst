@@ -7,7 +7,7 @@
 
 # *Ahmed Refaat Ramadan*
 
-### *Data Analyst | Business Intelligence*
+### *Data Analyst*
 
 *Turning Data Into Decisions*  
 
