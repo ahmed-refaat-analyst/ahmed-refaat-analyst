@@ -41,11 +41,10 @@ I’m a Data Analyst specialized in organizing data, building interactive dashbo
 ---
 
 ### 🚀 What I Do
-- Analyze business performance and KPIs  
-- Build interactive dashboards and reports  
-- Create structured data models  
-- Turn raw data into actionable insights  
-
+- Analyze overall business performance and key metrics to support better decision-making.
+- Build interactive dashboards and dynamic reports tailored to business needs.
+- Create clean and scalable data models that ensure accuracy and consistency.
+- Transform raw data into meaningful insights that help optimize performance and strategy.
 ---
 
 ### 🛠️ Skills & Tools
