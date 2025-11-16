@@ -16,8 +16,7 @@
 </div>
 
 ### 👋 About Me
-I’m a *Data Analyst* focused on transforming raw data into clear and meaningful insights.  
-I work on structuring datasets, building dashboards, and analyzing performance metrics to support effective business decisions.
+I’m a Data Analyst specialized in organizing data, building interactive dashboards, and uncovering performance trends that support smarter and faster business decisions. I focus on simplifying complex datasets and turning them into clear, actionable insights.
 
 ---
 
