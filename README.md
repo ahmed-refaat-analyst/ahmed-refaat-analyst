@@ -54,7 +54,7 @@ I’m a Data Analyst specialized in organizing data, building interactive dashbo
 | *Data Analysis & BI* | Power BI, Excel, DAX |
 | *Databases* | SQL, MySQL |
 | *Data Cleaning* | Power Query, Excel |
-| *Other Tools* | AI, GitHub, Google Sheets |
+| *Other Tools* | BI Modeling (MCP), AI, GitHub, Google Sheets |
 
 ---
 
