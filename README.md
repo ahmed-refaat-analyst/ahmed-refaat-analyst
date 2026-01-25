@@ -16,7 +16,7 @@
 </div>
 
 ### 👋 About Me
-I’m a Data Analyst specialized in organizing data, building interactive dashboards, and uncovering performance trends that support smarter and faster business decisions. I focus on simplifying complex datasets and turning them into clear, actionable insights.
+I’m a Bussiness and Data Analyst specialized in organizing data, building interactive dashboards, and uncovering performance trends that support smarter and faster business decisions. I focus on simplifying complex datasets and turning them into clear, actionable insights.
 
 ---
 
