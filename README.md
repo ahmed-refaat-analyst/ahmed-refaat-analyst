@@ -36,6 +36,10 @@ I’m a Bussiness and Data Analyst specialized in organizing data, building inte
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://wa.me/201007067837" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </p>
 
 ---
