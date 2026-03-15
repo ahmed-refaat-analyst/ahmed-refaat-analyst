@@ -58,7 +58,7 @@ I’m a Bussiness and Data Analyst specialized in organizing data, building inte
 | *Data Analysis & BI* | Power BI, Excel, DAX |
 | *Databases* | SQL, MySQL |
 | *Data Cleaning* | Power Query, Excel |
-| *Other Tools* | BI Modeling (MCP), AI, GitHub, Google Sheets |
+| *Other Tools* | BI Modeling (MCP), AI Tools, GitHub, Google Sheets |
 
 ---
 
