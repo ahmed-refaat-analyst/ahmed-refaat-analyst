@@ -1,65 +1,69 @@
-<!-- Profile Views -->
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmed-refaat-analyst&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
 <div align="center">
 
-# *Ahmed Refaat Ramadan*
+# Ahmed Refaat Ramadan
 
-### *Bussiness and Data Analyst*
+### Business & Data Analyst | Power BI · SQL · Excel · Odoo ERP
 
-*Turning Data Into Decisions*  
+I turn Sales, Marketing, Purchasing, HR and Financial data into dashboards and insights that management actually uses.
 
----
+<a href="https://www.linkedin.com/in/ahmed-refaat-ramadan-280049187"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedrefaatramadan11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/201007067837"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
-### 👋 About Me
-I’m a Bussiness and Data Analyst specialized in organizing data, building interactive dashboards, and uncovering performance trends that support smarter and faster business decisions. I focus on simplifying complex datasets and turning them into clear, actionable insights.
-
 ---
 
-### 🔗 Connect with Me
+### 👋 About Me
 
-<p align="left">
+- 💼 Business & Data Analyst with **3+ years** of experience in the contracting industry (KSA).
+- 📊 Analyze **sales, marketing, purchasing, HR and finance** data.
+- 🔄 Work end-to-end: Odoo ERP & SQL → Power Query → Data Modeling & DAX → Power BI.
+- 🎯 Focused on clear KPIs and actionable insights for management.
+---
 
-<a href="https://www.linkedin.com/in/ahmed-refaat-ramadan-280049187" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 📂 Featured Projects
 
-<a href="https://github.com/ahmed-refaat-analyst" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+| Project | Business Question It Answers | Tools |
+|---------|------------------------------|-------|
+| [Sales Performance Analytics](https://github.com/ahmed-refaat-analyst/sales-performance-analytics-powerbi) | Are we hitting sales targets, and where do leads drop off from lead → quotation → sale? | Power BI, DAX |
+| [Sales vs. Purchases 2024 vs. 2025](https://github.com/ahmed-refaat-analyst/Sales-Purchases-Comparison-Dashboard-2024-vs-2025-) | How did sales and purchasing move year over year (Jan–Jul)? | Power BI |
+| [Procurement & Supplier Performance](https://github.com/ahmed-refaat-analyst/Procurement-Supplier-Performance-Dashboard-Microsoft-Excel) | Which suppliers perform best, and how is procurement spend trending? | Excel, Power Query |
+| [Meta Ads Performance](https://github.com/ahmed-refaat-analyst/Meta-Ads-Performance-Dashboard-Power-BI) | What does each lead cost, and which campaigns are worth the spend? | Power BI |
+| [HR Attrition Analysis](https://github.com/ahmed-refaat-analyst/HR-Attrition-Analysis-PowerBI) | Who is leaving the company, and why? | Power BI |
 
-<a href="mailto:ahmedrefaatramadan11@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://wa.me/201007067837" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</p>
+➡️ More in my [repositories](https://github.com/ahmed-refaat-analyst?tab=repositories).
 
 ---
 
 ### 🚀 What I Do
-- Analyze overall business performance and key metrics to support better decision-making.
-- Build interactive dashboards and dynamic reports tailored to business needs.
-- Create clean and scalable data models that ensure accuracy and consistency.
-- Transform raw data into meaningful insights that help optimize performance and strategy.
+
+- **Dashboards & KPIs**: Design Power BI dashboards with clear KPIs, target vs. actual tracking and drill-through pages.
+- **Data Modeling**: Build star-schema models with clean fact and dimension tables and well-structured DAX measures.
+- **ERP Data**: Extract and reconcile sales, purchasing and inventory data from Odoo.
+- **Financial Analysis**: Revenue, gross margin, budget vs. actual, year-over-year comparisons and supplier spend.
+- **Marketing & HR Analytics**: Campaign spend, cost per lead and lead conversion; headcount, attrition and workforce trends.
+- **Management Reporting**: Turn analysis into concise reports with findings and recommended actions.
+
 ---
 
 ### 🛠️ Skills & Tools
 
 | Category | Tools |
-|--------|-------|
-| *Data Analysis & BI* | Power BI, Excel, DAX |
-| *Databases* | SQL, MySQL |
-| *Data Cleaning* | Power Query, Excel |
-| *Other Tools* | BI Modeling (MCP), AI Tools, GitHub, Google Sheets |
+|----------|-------|
+| **BI & Visualization** | Power BI, DAX, Looker Studio |
+| **Data Preparation** | Power Query, Advanced Excel |
+| **Databases** | SQL Server (T-SQL), MySQL |
+| **ERP** | Odoo |
+| **Programming** | Python (learning) |
+| **Other** | GitHub, Google Sheets, AI tools |
 
 ---
 
-✨ *Feel free to explore my repositories — your feedback is always welcome!*
+<div align="center">
+
+*Feedback on any of my repositories is always welcome.*
+
+<img src="https://komarev.com/ghpvc/?username=ahmed-refaat-analyst&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+
+</div>
