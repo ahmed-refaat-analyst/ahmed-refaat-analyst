@@ -26,6 +26,7 @@ I turn Sales, Marketing, Purchasing, HR and Financial data into dashboards and i
 
 | Project | Business Question It Answers | Tools |
 |---------|------------------------------|-------|
+| [Marketing Performance Analytics](https://github.com/ahmed-refaat-analyst/Marketing-Performance-Analytics-Powerbi) | Which campaigns actually bring sales, not just leads, and why are leads being lost? | Power BI, DAX, Power Query |
 | [Sales Performance Analytics](https://github.com/ahmed-refaat-analyst/sales-performance-analytics-powerbi) | Are we hitting sales targets, and where do leads drop off from lead → quotation → sale? | Power BI, DAX |
 | [Sales vs. Purchases 2024 vs. 2025](https://github.com/ahmed-refaat-analyst/Sales-Purchases-Comparison-Dashboard-2024-vs-2025-) | How did sales and purchasing move year over year (Jan–Jul)? | Power BI |
 | [Procurement & Supplier Performance](https://github.com/ahmed-refaat-analyst/Procurement-Supplier-Performance-Dashboard-Microsoft-Excel) | Which suppliers perform best, and how is procurement spend trending? | Excel, Power Query |
